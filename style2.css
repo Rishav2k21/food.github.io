@@ -1,0 +1,12 @@
+.rishav{
+    border: 2px solid black;
+    box-decoration-break: slice;
+
+}
+.full{
+    background-image: url(images/bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
